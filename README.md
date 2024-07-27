@@ -1,0 +1,2 @@
+This file contains notes and a practice exercise using TensorFlow's Keras API. We'll be working with the Fashion MNIST dataset available in the Keras library, which includes 70,000 greyscale images of clothing items, each measuring 28x28 pixels. Each image is categorized into one of 10 label classes, numbered 0-9, representing specific types of clothing.
+Our primary objective today is to develop a model that accurately classifies these different types of clothing using computer vision.
